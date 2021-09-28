@@ -1,9 +1,9 @@
-#Estrogonofe de Frango
+# Estrogonofe de Frango
 
-##Ingredientes
+## Ingredientes
  - Frango
  - Creme de leite
  - Batata palha
 
-##Modo de Preparo
+## Modo de Preparo
  - pega tudo e faz o estrogonofe
