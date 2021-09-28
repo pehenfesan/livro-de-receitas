@@ -2,5 +2,5 @@
 
 ###Bem-vindo ao livro de receitas
 
- - Estrogonofe de flango
- - Bolo de mulango
+ - Estrogonofe de frango
+ - Bolo de Mulango
