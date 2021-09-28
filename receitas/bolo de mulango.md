@@ -1,6 +1,6 @@
-#Receita de Bolo
+# Receita de Bolo
 
-##Bolo de mulango
+## Bolo de mulango
 
 **Negrito**
 _italico_
@@ -10,5 +10,5 @@ _italico_
  - morango
  - ovo
 
- ###Modo de preparo:
+ ### Modo de preparo:
   - Mistura tudo e bota na bandeja untada
